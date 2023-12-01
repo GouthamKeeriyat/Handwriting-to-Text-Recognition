@@ -1,1 +1,3 @@
 # Handwriting-to-Text-Recognition
+
+Developing a robust deep learning model for handwritten text recognition using Convolutional Neural Networks (CNNs). The goal is to create an accurate and efficient system capable of accurately transcribing handwritten text images into machine-encoded text. The model needs to process varied handwriting styles, sizes, and orientations, and be capable of recognizing and transcribing individual words or sentences accurately from input images. The objective is to achieve high accuracy and generalization while optimizing the architecture and training methodology to handle real-world handwritten documents effectively. 
