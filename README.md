@@ -14,6 +14,8 @@ Developing a robust deep learning model for handwritten text recognition using C
 
 5. **model1.h5** - This is the pre-trained model for the network
 
+6. **Report.pdf** - Report of the project
+
 *How to use:*
 
 1. Download all the files
